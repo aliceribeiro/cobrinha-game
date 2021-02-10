@@ -3,7 +3,7 @@
 </h1>
 
 <h1>
-  <img src="https://ik.imagekit.io/aliceribeiro/snake-game__6zcQQGul.gif">
+  <img src="https://ik.imagekit.io/aliceribeiro/snake-game_EeJUvJhOz.png">
 </h1>
 
 <h3 align="center">
